@@ -1,13 +1,100 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    border: 0;
+    height: 100%;
+    background-color: white;
+    color:white;
+    font-family: 'Merriweather';
+    height: 100%;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+html, #root, .main {
+    height: 100%;
+    overflow:auto;
+    overflow-x: hidden;
+}
+
+.myNavbar {
+    position: fixed;
+    height: 100%;
+    width: 25%;
+    background-color: rgb(2, 6, 37);
+}
+
+.myNavbarul {
+    list-style-type: none;
+    text-align: left;
+    padding: 30px 0px 20px 20px;
+}
+
+.myNavbarli {
+    margin-left: auto;
+    border: 0px solid green;
+    padding: 30px 0px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: palegreen;
+}
+
+.main {
+    width: 75%;
+    height: 100%;
+    margin-left: 25%;
+    padding-left: 10px;
+    padding-top: 15px;
+    background-image: url(./pictures/yama2.jpg);
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+}
+
+#me {
+    display: block;
+    margin: 10px auto 0px auto;
+    width: 50%;
+    border-radius: 50%;
+}
+
+.carousel {
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.carousel-indicators {
+    visibility: hidden;
+}
+
+.home {
+    padding: 10%;
+}
+
+.heading {
+    color: palegreen;
+}
+
+.columns {
+    display: flex;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-right: 5%;
+}
+
+.columnItem {
+    flex: 1;
+}
+
+@media (max-width: 800px) {
+    .columns {
+      flex-direction: column;
+    }
 }
