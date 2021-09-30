@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Schulingkamp/Schulingkamp.github.io/static/css/main.d0ac16e0.chunk.css",
+    "main.js": "/Schulingkamp/Schulingkamp.github.io/static/js/main.397dbe68.chunk.js",
+    "main.js.map": "/Schulingkamp/Schulingkamp.github.io/static/js/main.397dbe68.chunk.js.map",
+    "runtime-main.js": "/Schulingkamp/Schulingkamp.github.io/static/js/runtime-main.aab4379d.js",
+    "runtime-main.js.map": "/Schulingkamp/Schulingkamp.github.io/static/js/runtime-main.aab4379d.js.map",
+    "static/js/2.99379c48.chunk.js": "/Schulingkamp/Schulingkamp.github.io/static/js/2.99379c48.chunk.js",
+    "static/js/2.99379c48.chunk.js.map": "/Schulingkamp/Schulingkamp.github.io/static/js/2.99379c48.chunk.js.map",
+    "index.html": "/Schulingkamp/Schulingkamp.github.io/index.html",
+    "static/css/main.d0ac16e0.chunk.css.map": "/Schulingkamp/Schulingkamp.github.io/static/css/main.d0ac16e0.chunk.css.map",
+    "static/js/2.99379c48.chunk.js.LICENSE.txt": "/Schulingkamp/Schulingkamp.github.io/static/js/2.99379c48.chunk.js.LICENSE.txt",
+    "static/media/alienPicture.b42d7434.png": "/Schulingkamp/Schulingkamp.github.io/static/media/alienPicture.b42d7434.png",
+    "static/media/greenShirt.cfbac84b.png": "/Schulingkamp/Schulingkamp.github.io/static/media/greenShirt.cfbac84b.png",
+    "static/media/nittanyPicture.c830321e.png": "/Schulingkamp/Schulingkamp.github.io/static/media/nittanyPicture.c830321e.png",
+    "static/media/personalSitePicture.2fa1e662.png": "/Schulingkamp/Schulingkamp.github.io/static/media/personalSitePicture.2fa1e662.png",
+    "static/media/index.css": "/Schulingkamp/Schulingkamp.github.io/static/media/yama2.d65515ae.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aab4379d.js",
+    "static/js/2.99379c48.chunk.js",
+    "static/css/main.d0ac16e0.chunk.css",
+    "static/js/main.397dbe68.chunk.js"
+  ]
+}
