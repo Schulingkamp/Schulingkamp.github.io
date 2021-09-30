@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Schulingkamp/Schulingkamp.github.io/static/css/main.d0ac16e0.chunk.css",
-    "main.js": "/Schulingkamp/Schulingkamp.github.io/static/js/main.397dbe68.chunk.js",
-    "main.js.map": "/Schulingkamp/Schulingkamp.github.io/static/js/main.397dbe68.chunk.js.map",
+    "main.js": "/Schulingkamp/Schulingkamp.github.io/static/js/main.61e2dcef.chunk.js",
+    "main.js.map": "/Schulingkamp/Schulingkamp.github.io/static/js/main.61e2dcef.chunk.js.map",
     "runtime-main.js": "/Schulingkamp/Schulingkamp.github.io/static/js/runtime-main.aab4379d.js",
     "runtime-main.js.map": "/Schulingkamp/Schulingkamp.github.io/static/js/runtime-main.aab4379d.js.map",
     "static/js/2.99379c48.chunk.js": "/Schulingkamp/Schulingkamp.github.io/static/js/2.99379c48.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.aab4379d.js",
     "static/js/2.99379c48.chunk.js",
     "static/css/main.d0ac16e0.chunk.css",
-    "static/js/main.397dbe68.chunk.js"
+    "static/js/main.61e2dcef.chunk.js"
   ]
 }
