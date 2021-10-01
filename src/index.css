@@ -97,4 +97,7 @@ a:hover {
     .columns {
       flex-direction: column;
     }
+    .fab, .fas {
+        display: block;
+    }
 }
