@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.4963adff.chunk.css",
-    "main.js": "/static/js/main.fb52a1bb.chunk.js",
-    "main.js.map": "/static/js/main.fb52a1bb.chunk.js.map",
+    "main.css": "/static/css/main.c650f7e6.chunk.css",
+    "main.js": "/static/js/main.ad1a468e.chunk.js",
+    "main.js.map": "/static/js/main.ad1a468e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.385981fd.js",
     "runtime-main.js.map": "/static/js/runtime-main.385981fd.js.map",
     "static/js/2.99379c48.chunk.js": "/static/js/2.99379c48.chunk.js",
     "static/js/2.99379c48.chunk.js.map": "/static/js/2.99379c48.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.4963adff.chunk.css.map": "/static/css/main.4963adff.chunk.css.map",
+    "static/css/main.c650f7e6.chunk.css.map": "/static/css/main.c650f7e6.chunk.css.map",
     "static/js/2.99379c48.chunk.js.LICENSE.txt": "/static/js/2.99379c48.chunk.js.LICENSE.txt",
     "static/media/alienPicture.b42d7434.png": "/static/media/alienPicture.b42d7434.png",
     "static/media/greenShirt.cfbac84b.png": "/static/media/greenShirt.cfbac84b.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.385981fd.js",
     "static/js/2.99379c48.chunk.js",
-    "static/css/main.4963adff.chunk.css",
-    "static/js/main.fb52a1bb.chunk.js"
+    "static/css/main.c650f7e6.chunk.css",
+    "static/js/main.ad1a468e.chunk.js"
   ]
 }
